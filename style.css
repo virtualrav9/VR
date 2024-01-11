@@ -1,12 +1,12 @@
 @font-face {
     font-family: Genral Sans;
-    src: url(./GeneralSans-Medium.otf);
+    src: url(./GeneralSans-Medium.woff2);
 }
 
 * {
     margin: 0;
     padding: 0;
-    font-family: "General Sans";
+    font-family: "GeneralSans-Medium";
     box-sizing: border-box;
 }
 
